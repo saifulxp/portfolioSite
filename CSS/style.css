@@ -630,3 +630,22 @@ header.sticky{
   }
 
 }
+
+@media (max-width: 390px){
+  .logo img{
+    max-width: 100%;
+    width: 120px;
+    height: auto;
+  }
+  .top-btn{
+    padding: 4px 5px;
+    
+  }
+  .navlist a{
+    max-width: 100%;
+    width: 100px;
+    height: auto;
+    margin: left
+    ;
+  }
+}
